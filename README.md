@@ -6,6 +6,7 @@
 ### Project Overview
 This project focuses on analyzing CitiCart sales data to derive insights on product performance, segment dynamics, and profitability. The dataset includes essential attributes such as country, date, discount band, month name, month number, product, segment, and year. The objective is to deliver actionable insights that facilitate informed business strategies and decision-making.
 
+![WhatsApp Image 2024-10-30 at 16 30 54_9208f5e4](https://github.com/user-attachments/assets/39f310d5-cd10-4b7f-8b0d-c8196e741dcb)
 
 
 ### Data Sources
